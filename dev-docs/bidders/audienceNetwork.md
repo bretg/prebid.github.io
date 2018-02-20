@@ -1,13 +1,13 @@
 ---
-layout: bidder
 title: Audience Network
+layout: bidder
 description: Prebid Audience Network Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: audienceNetwork
 biddercode_longer_than_12: true
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
 
 #### send all bids ad server keys

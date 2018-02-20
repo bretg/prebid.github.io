@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Logging & Troubleshooting
+layout: page
 description: Logging & Troubleshooting
 pid: 2
 top_nav_section: prebid-mobile

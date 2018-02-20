@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: AdBund
+layout: bidder
 description: Prebid AdBund Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: adbund
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

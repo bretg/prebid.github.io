@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Setting up Prebid for AMP in DFP
+layout: page
 head_title: Setting up Prebid for AMP in DFP
 description: Setting up Prebid for AMP in DFP
 pid: 3

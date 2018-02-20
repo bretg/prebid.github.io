@@ -1,17 +1,17 @@
 ---
-layout: example
 title: Custom Price Bucket using `setPriceGranularity`
+layout: example
 description: Custom Price Bucket using `setPriceGranularity`
 top_nav_section: dev_docs
 nav_section: quick-start
 hide: true
-
 about:
-- Custom keyword targeting setup (for price) using the <code>setPriceGranularity</code> method
-- For more info on <code>setPriceGranularity</code>, see <a href="/dev-docs/publisher-api-reference.html#customCPMObject">the API reference</a>
+- Custom keyword targeting setup (for price) using the <code>setPriceGranularity</code>
+  method
+- For more info on <code>setPriceGranularity</code>, see <a href="/dev-docs/publisher-api-reference.html#customCPMObject">the
+  API reference</a>
 - Integration with DFP's GPT single request asynchronous mode
 - One set of line items for all bidders
-
 jsfiddle_link: jsfiddle.net/prebid/bp9magow/100/embedded/html,result
 code_height: 3166
 code_lines: 146

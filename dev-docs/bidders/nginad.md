@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: NginAd
+layout: bidder
 description: Prebid NginAd Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: nginad
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

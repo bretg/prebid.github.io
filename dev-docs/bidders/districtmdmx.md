@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: DistrictmDMX
+layout: bidder
 description: Prebid DistrictmDMX Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: districtmDMX
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

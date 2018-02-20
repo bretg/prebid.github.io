@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: ThoughtLeadr
+layout: bidder
 description: Prebid ThoughtLeadr Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: thoughtleadr
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

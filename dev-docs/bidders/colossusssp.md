@@ -1,6 +1,6 @@
 ---
-layout: bidder
 title: Colossus
+layout: bidder
 description: Prebid Colossus Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference

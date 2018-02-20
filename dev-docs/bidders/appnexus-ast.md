@@ -1,13 +1,13 @@
 ---
-layout: bidder
 title: AppNexus AST
+layout: bidder
 description: Prebid AppNexus AST Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: appnexusAst
 biddercode_longer_than_12: false
-prebid_1_0_supported : false
+prebid_1_0_supported: false
 ---
 
 Advantages of using the `appnexusAst` adapter over the `appnexus`

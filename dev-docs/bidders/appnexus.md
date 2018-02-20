@@ -1,13 +1,13 @@
 ---
-layout: bidder
 title: AppNexus
+layout: bidder
 description: Prebid AppNexus Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 biddercode: appnexus
 biddercode_longer_than_12: false
 hide: true
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
 
 ### bid params

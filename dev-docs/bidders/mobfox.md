@@ -1,13 +1,13 @@
 ---
-layout: bidder
 title: MobFox
+layout: bidder
 description: Prebid MobFox Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: mobfox
 biddercode_longer_than_12: false
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
 
 ### bid params

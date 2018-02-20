@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Support
+layout: page
 description: Header Bidding Support - How to contact the Prebid Organization
 pid: 0
 is_top_nav: yeah

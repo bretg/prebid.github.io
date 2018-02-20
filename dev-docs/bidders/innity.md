@@ -1,17 +1,12 @@
 ---
-layout: bidder
 title: Innity
+layout: bidder
 description: Prebid Innity Bidder Adapter
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: innity
-
 biddercode_longer_than_12: false
-
 ---
 
 ### Note:

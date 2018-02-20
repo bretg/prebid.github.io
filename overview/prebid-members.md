@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Prebid Org Membership
+layout: page
 description: Companies involved in Prebid Org
 pid: 2
 is_top_nav: yeah

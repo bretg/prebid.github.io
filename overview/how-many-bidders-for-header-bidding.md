@@ -1,15 +1,12 @@
 ---
-layout: page
 title: Optimize header bidding setup
+layout: page
 head_title: Optimize header bidding setup
-
-description: An analysis of the optimal number of bidders to work with for header bidding, to optimize yield and user experience. 
-
+description: An analysis of the optimal number of bidders to work with for header
+  bidding, to optimize yield and user experience.
 pid: 10
-
 top_nav_section: overview
 nav_section: studies
-
 ---
 
 <div class="bs-docs-section" markdown="1">

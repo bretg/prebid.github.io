@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Module - Server-to-Server Testing
+layout: page
 description: Adds A/B test support to ease analysis of server-side header bidding
 top_nav_section: dev_docs
 nav_section: modules
-module_code : s2sTesting
-display_name : Server-to-Server Testing
+module_code: s2sTesting
+display_name: Server-to-Server Testing
 ---
 
 <div class="bs-docs-section" markdown="1">

@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Module - DFP Video
+layout: page
 description: Addition of DFP Video to the Prebid package
 top_nav_section: dev_docs
 nav_section: modules
-module_code : dfpAdServerVideo
-display_name : DFP Video
+module_code: dfpAdServerVideo
+display_name: DFP Video
 ---
 
 <div class="bs-docs-section" markdown="1">

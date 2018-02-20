@@ -1,6 +1,6 @@
 ---
-layout: page
 title: How Prebid on AMP Works
+layout: page
 description: How Prebid on AMP Works
 pid: 0
 is_top_nav: yeah

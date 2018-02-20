@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Show Native Ads with Prebid.js
+layout: page
 description: Show Native Ads with Prebid.js
 pid: 0
 is_top_nav: yeah

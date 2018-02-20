@@ -1,14 +1,11 @@
 ---
-layout: post
 title: Analytics for Prebid.js Coming Soon!
+date: 2015-10-11 00:00:00 Z
+permalink: "/blog/header-bidding-analytics-coming-soon"
+layout: post
 head_title: Analytics for Prebid.js Coming Soon!
-
 description: Analytics for Prebid.js Coming Soon!
-
-permalink: /blog/header-bidding-analytics-coming-soon
-
 ---
-
 
 > Are my header bidding demand partners generating more revenue for me? If not, is it because of latency or is it due to low bid CPM? How about discrepancy?
 

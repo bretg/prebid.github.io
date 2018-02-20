@@ -1,22 +1,14 @@
 ---
-layout: bidder
 title: ONE by AOL Display
-description: Prebid AOL Bidder Adaptor 
-
+layout: bidder
+description: Prebid AOL Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: onedisplay
-
-aliasCode : aol
-
+aliasCode: aol
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### bid params
 

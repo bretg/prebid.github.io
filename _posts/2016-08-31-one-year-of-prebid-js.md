@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Happy Birthday, Prebid.js!
+date: 2016-08-31 00:00:00 Z
+permalink: "/blog/happy-birthday-prebid-js"
+layout: post
 head_title: Happy Birthday, Prebid.js!
-description: Looking back on the first year of Prebid.js development 
-permalink: /blog/happy-birthday-prebid-js
+description: Looking back on the first year of Prebid.js development
 ---
 
 (_This post originally appeared on the [AppNexus blog](http://blog.appnexus.com/2016/prebid-js-a-year-in-the-life-of-an-open-sourced-ad-tech-project/).  It has been edited slightly for clarity._)

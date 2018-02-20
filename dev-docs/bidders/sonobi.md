@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Sonobi
+layout: bidder
 description: Prebid Sonobi Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: sonobi
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### release version:
 `0.8.0`

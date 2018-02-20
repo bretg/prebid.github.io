@@ -1,13 +1,13 @@
 ---
-layout: bidder
 title: A4g
+layout: bidder
 description: Prebid A4G Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: a4g
 biddercode_longer_than_12: false
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
 
 ### bid params

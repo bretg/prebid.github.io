@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Ad Ops Guide
+layout: page
 head_title: Ad Ops Guide for Header Bidding
 description: An ad ops guide for implementing header bidding with prebid.js.
 pid: 30
-
 is_top_nav: yeah
-
 ---
 
 <div class="bs-docs-section" markdown="1">

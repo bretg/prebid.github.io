@@ -1,12 +1,11 @@
 ---
-layout: post
 title: How to simplify line item setup
+date: 2015-07-20 00:00:00 Z
+permalink: "/blog/how-to-simplify-line-item-setup"
+layout: post
 head_title: How to simplify line item setup for header bidding with prebid.js
-
-description: A walkthrough of why header bidding implementations cause latency. An overview of how to use prebid.js to reduce it.
-
-permalink: /blog/how-to-simplify-line-item-setup
-
+description: A walkthrough of why header bidding implementations cause latency. An
+  overview of how to use prebid.js to reduce it.
 ---
 
 #### Let's do the math:

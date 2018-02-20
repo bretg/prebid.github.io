@@ -1,9 +1,10 @@
 ---
+title: Getting Started
 redirect_from: "/getting-started.html"
 layout: page
-title: Getting Started
 head_title: Getting Started with Prebid for Header Bidding
-description: An overview of Prebid, how it works, basic templates and examples, and more.
+description: An overview of Prebid, how it works, basic templates and examples, and
+  more.
 pid: 10
 top_nav_section: overview
 nav_section: intro

@@ -1,6 +1,6 @@
 ---
-layout: bidder
 title: Orbitsoft
+layout: bidder
 description: Prebid Orbitsoft Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
@@ -8,7 +8,6 @@ hide: true
 biddercode: orbitsoft
 biddercode_longer_than_12: false
 ---
-
 
 ### bid params
 

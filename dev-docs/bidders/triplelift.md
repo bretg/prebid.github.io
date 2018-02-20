@@ -1,12 +1,10 @@
 ---
-layout: bidder
 title: TripleLift
+layout: bidder
 description: Prebid TripleLift Bidder Adapter
-
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
-
 biddercode: triplelift
 biddercode_longer_than_12: false
 ---

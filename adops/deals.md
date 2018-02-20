@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Enable Deals
+layout: page
 head_title: Enable Deals in Prebid for Header Bidding
 description: Enable Deals in Prebid for Header Bidding Analysis.
 pid: 4
-
 hide: false
-
 top_nav_section: adops
 nav_section: tutorials
 ---

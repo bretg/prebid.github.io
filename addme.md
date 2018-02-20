@@ -1,7 +1,7 @@
 ---
+title: Add me!
 redirect_to: "/index.html"
 layout: page
-title: Add me!
 description: 
 pid: 60
 isNew: true

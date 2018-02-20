@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Send Top Bid to Adserver
+layout: page
 head_title: Getting Started with Prebid.js for Header Bidding
-description: An overview of Prebid.js, how it works, basic templates and examples, and more.
+description: An overview of Prebid.js, how it works, basic templates and examples,
+  and more.
 pid: 1
 top_nav_section: adops
 nav_section: tutorials

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Show Responsive Ads with Size Mapping
+date: 2016-10-05 00:00:00 Z
+permalink: "/blog/show-responsive-ads"
+layout: post
 head_title: Show Responsive Ads with Size Mapping
 description: Show Responsive Ads with Size Mapping
-permalink: /blog/show-responsive-ads
 ---
 
 Prebid is making it easier for you to adjust ad sizes based on the device's screen width.  Using the new size mapping feature, you can:

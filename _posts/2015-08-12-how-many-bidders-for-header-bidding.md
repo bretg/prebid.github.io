@@ -1,12 +1,11 @@
 ---
-layout: post
 title: How many bidders should I work with?
+date: 2015-08-12 00:00:00 Z
+permalink: "/blog/how-many-bidders-for-header-bidding"
+layout: post
 head_title: How many bidders for header bidding
-
-description: An analysis of the optimal number of bidders to work with for header bidding, to optimize yield and user experience. 
-
-permalink: /blog/how-many-bidders-for-header-bidding
-
+description: An analysis of the optimal number of bidders to work with for header
+  bidding, to optimize yield and user experience.
 ---
 
 While helping publishers run header bidding, we hear the same questions asked many times:

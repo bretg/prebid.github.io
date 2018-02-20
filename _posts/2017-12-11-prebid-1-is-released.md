@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Prebid.js 1.0 is Released!
+date: 2017-12-11 00:00:00 Z
+permalink: "/blog/prebid-1-is-released"
+layout: post
 head_title: Announcing the release of Prebid.js 1.0
 description: This week, we're pleased to announce the release of Prebid.js 1.0
-permalink: /blog/prebid-1-is-released
 ---
 
 We're pleased to announce the release of [Prebid.js 1.0!](https://github.com/prebid/Prebid.js/releases/tag/1.0.0) [Download it]({{site.baseurl}}/download.html) or [build it from master](https://github.com/prebid/Prebid.js/blob/master/README.md#Build)!

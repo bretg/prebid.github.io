@@ -1,15 +1,12 @@
 ---
-layout: page
 title: How to simplify line item setup
+layout: page
 head_title: How to simplify line item setup for header bidding with prebid.js
-
-description: A walkthrough of why header bidding implementations cause latency. An overview of how to use prebid.js to reduce it.
-
+description: A walkthrough of why header bidding implementations cause latency. An
+  overview of how to use prebid.js to reduce it.
 pid: 50
-
 top_nav_section: overview
 nav_section: studies
-
 ---
 
 <div class="bs-docs-section" markdown="1">

@@ -1,20 +1,15 @@
 ---
-layout: example
 title: Set Price Granularity
+layout: example
 description: Simplified Price Granularity Setup
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
 about:
 - Simplified price bucket setup with one function call to <a href="/dev-docs/publisher-api-reference.html#module_pbjs.setPriceGranularity"><code>pbjs.setPriceGranularity()</code></a>
-
 jsfiddle_link: jsfiddle.net/prebid/bp9magow/98/embedded/html,result
 code_height: 2641
 code_lines: 121
-
 pid: 25
 ---
 

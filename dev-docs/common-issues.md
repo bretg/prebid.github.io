@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Common Issues
+layout: page
 description: Common Issues for developers implementing Prebid.js Header Bidding.
 pid: 10
-
 top_nav_section: dev_docs
 nav_section: troubleshooting
-
 ---
 
 <div class="bs-docs-section" markdown="1">

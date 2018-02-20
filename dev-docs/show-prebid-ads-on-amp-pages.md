@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Show Prebid Ads on AMP Pages (Alpha)
+layout: page
 description: 
 pid: 1
 is_top_nav: yeah

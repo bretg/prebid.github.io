@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Load DFP Lightning Fast with Prebid
-
+date: 2016-05-10 00:00:00 Z
+permalink: "/blog/dfp-instant-load"
+layout: post
 description: New way to load DFP lightning fast with Prebid for header bidding.
-
-permalink: /blog/dfp-instant-load
-
 ---
 
 Prebid is introducing a new way of loading GPT and sending GPT requests. Compared to the [previous mechanism](/dev-docs/examples-old/basic-example.html), the new method has the below advantages.

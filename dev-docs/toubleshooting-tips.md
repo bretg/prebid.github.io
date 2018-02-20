@@ -1,12 +1,10 @@
 ---
-layout: page
 title: Dev Tips
+layout: page
 description: Troubleshooting tips for developers implementing Prebid.js Header Bidding.
 pid: 0
-
 top_nav_section: dev_docs
 nav_section: troubleshooting
-
 ---
 
 <div class="bs-docs-section" markdown="1">

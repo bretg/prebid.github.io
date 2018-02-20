@@ -1,30 +1,26 @@
 ---
-layout: example
 title: Postbid Example
+layout: example
 description: Postbid Example
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
-why_link: /overview/what-is-post-bid.html
-
-about: 
-- Post-bid is a 3rd party tag creative you setup in your ad server. For each ad unit of your site, create one line item in DFP targeting that ad unit. This line item's <strong>creative will contain the below code</strong>.
-- If your ad unit supports multiple sizes, create multiple Post-bid creatives for each size. 
-- There is no need for per-price-bucket-per-line-item setup, because the post-bid creative is chosen after the ad server has chosen the line item. 
-- This post-bid creative <strong>supports passback</strong>. See more info on passbacks in the below line-by-line explanation.
-
+why_link: "/overview/what-is-post-bid.html"
+about:
+- Post-bid is a 3rd party tag creative you setup in your ad server. For each ad unit
+  of your site, create one line item in DFP targeting that ad unit. This line item's
+  <strong>creative will contain the below code</strong>.
+- If your ad unit supports multiple sizes, create multiple Post-bid creatives for
+  each size.
+- There is no need for per-price-bucket-per-line-item setup, because the post-bid
+  creative is chosen after the ad server has chosen the line item.
+- This post-bid creative <strong>supports passback</strong>. See more info on passbacks
+  in the below line-by-line explanation.
 jsfiddle_link: jsfiddle.net/prebid/akLqdj3d/165/embedded/html,result
 code_height: 1864
 code_lines: 84
-
 pid: 30
 ---
-
-
-
 
 <div markdown="1">
 #### Line 5: Enter your creative's size.

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Get Started with Prebid Server
+layout: page
 description: Get Started with Prebid Server
 pid: 27
 top_nav_section: dev_docs

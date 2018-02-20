@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: AdMixer
+layout: bidder
 description: Prebid AdMixer Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: admixer
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

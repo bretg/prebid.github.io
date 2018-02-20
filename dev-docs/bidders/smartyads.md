@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: SmartyAds
+layout: bidder
 description: Prebid SmartyAds Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: smartyads
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

@@ -1,11 +1,9 @@
 ---
-layout: post
 title: New Adaptors Adform, bRealTime, Springserve
-
+date: 2016-02-11 00:00:00 Z
+permalink: "/blog/adform-brealtime-springserve-for-prebid"
+layout: post
 description: New Adaptors Adform, bRealTime, Springserve are now available for Prebid.js
-
-permalink: /blog/adform-brealtime-springserve-for-prebid
-
 ---
 
 ### How to add bidder Adform:

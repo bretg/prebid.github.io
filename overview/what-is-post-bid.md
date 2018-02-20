@@ -1,15 +1,11 @@
 ---
-layout: page
 title: Intro to Post-Bid & Get Started
+layout: page
 head_title: What is post-bid and when to use it vs. header bidding.
-
 description: What is post-bid and when to use it vs. header bidding.
-
 pid: 60
-
 top_nav_section: overview
 nav_section: postbid
-
 ---
 
 <div class="bs-docs-section" markdown="1">

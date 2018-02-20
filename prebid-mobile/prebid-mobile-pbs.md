@@ -1,6 +1,6 @@
 ---
+title: Get Started with Prebid Server
 layout: page
-title: Get Started with Prebid Server 
 description: Get Started with Prebid Server
 pid: 0
 is_top_nav: yeah

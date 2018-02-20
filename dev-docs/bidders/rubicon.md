@@ -1,15 +1,14 @@
 ---
-layout: bidder
 title: Rubicon
+layout: bidder
 description: Prebid Rubicon Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: rubicon
 biddercode_longer_than_12: false
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
-
 
 ### Note:
 The Rubicon Project adapter requires setup and approval from the Rubicon Project team, even for existing Rubicon Project publishers. Please reach out to your account team or globalsupport@rubiconproject.com for more information.

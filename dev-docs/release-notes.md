@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Release Notes
+layout: page
 description: Release Notes
 pid: 40
 top_nav_section: dev_docs

@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Enable Deals in Prebid
-
+date: 2016-06-21 00:00:00 Z
+permalink: "/blog/enable-deals"
+layout: post
 description: Enable Deals in Prebid for header bidding.
-
-permalink: /blog/enable-deals
-
 ---
 
 Prebid is making it easier for publishers to run deals in header bidding! 

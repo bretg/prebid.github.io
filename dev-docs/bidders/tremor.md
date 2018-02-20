@@ -1,6 +1,6 @@
 ---
+title: Tremor
 layout: bidder
-title: Tremor 
 description: Prebid Tremor Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference

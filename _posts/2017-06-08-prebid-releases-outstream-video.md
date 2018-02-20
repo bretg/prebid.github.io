@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Prebid.js Releases Outstream Video Support
+date: 2017-06-08 00:00:00 Z
+permalink: "/blog/first-open-header-bidding-solution-for-video-now-available-on-prebid-js"
+layout: post
 head_title: Prebid.js Releases Outstream Video Support
-description: Late last year, Prebid.js took an important first step beyond traditional display advertising formats with a release of formal support for instream video.  Today, Prebid.js is doubling down on its focus on formats with the release of outstream video support.
-permalink: /blog/first-open-header-bidding-solution-for-video-now-available-on-prebid-js
+description: Late last year, Prebid.js took an important first step beyond traditional
+  display advertising formats with a release of formal support for instream video.  Today,
+  Prebid.js is doubling down on its focus on formats with the release of outstream
+  video support.
 ---
 
 (*This post first appeared on the [AppNexus Product Blog](http://productblog.appnexus.com/prebid-js-releases-outstream-video-support/).*)

@@ -1,17 +1,12 @@
 ---
-layout: bidder
 title: GumGum
+layout: bidder
 description: Prebid GumGum Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: gumgum
-
 biddercode_longer_than_12: false
-
 ---
 
 ### Note:

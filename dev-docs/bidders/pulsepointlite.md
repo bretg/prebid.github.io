@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: PulsePoint Lite
+layout: bidder
 description: Prebid PulsePoint Lite Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: pulsepointLite
-
 biddercode_longer_than_12: true
-
 ---
-
 
 ### bid params
 

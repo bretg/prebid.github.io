@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: 152Media
+layout: bidder
 description: Prebid 152Media Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: oftmedia
-
-aliasCode : appnexus
-
+aliasCode: appnexus
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

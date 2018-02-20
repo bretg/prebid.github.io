@@ -1,16 +1,11 @@
 ---
-layout: page
 title: Download Prebid.js
+layout: page
 description: Documentation on how to download Prebid.js for header bidding.
-
 pid: 0
-
 is_top_nav: yeah
-
 top_nav_section: download
 nav_section: download
-
-
 ---
 
 <script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>

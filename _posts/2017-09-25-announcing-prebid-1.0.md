@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Announcing Prebid.js 1.0
+date: 2017-09-25 00:00:00 Z
+permalink: "/blog/announcing-prebid-1-0"
+layout: post
 head_title: Announcing Prebid.js 1.0 release milestone
 description: This week, we're pleased to announce the Prebid.js 1.0 release milestone
-permalink: /blog/announcing-prebid-1-0
 ---
 
 ## Prebid 1.0 - here at last

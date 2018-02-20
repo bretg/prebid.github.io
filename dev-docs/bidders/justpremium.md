@@ -1,16 +1,14 @@
 ---
-layout: bidder
 title: Justpremium
+layout: bidder
 description: Prebid Justpremium Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: justpremium
 biddercode_longer_than_12: false
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
-
-
 
 ### bid params
 

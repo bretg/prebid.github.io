@@ -1,12 +1,11 @@
 ---
-layout: page
 title: Setup Line Items for MoPub
+layout: page
 description: Setup line items for MoPub
 pid: 1
 top_nav_section: prebid-mobile
 nav_section: prebid-mobile-adops
 ---
-
 
 <div class="bs-docs-section" markdown="1">
 

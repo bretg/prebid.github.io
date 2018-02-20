@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Gourmet Ads
+layout: bidder
 description: Prebid Gourmet Ads Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: gourmetads
-
-aliasCode : appnexus
-
+aliasCode: appnexus
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

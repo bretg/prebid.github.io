@@ -1,17 +1,12 @@
 ---
-layout: bidder
 title: AerServ
+layout: bidder
 description: Prebid AerServ Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: aerserv
-
 biddercode_longer_than_12: false
-
 ---
 
 ### Note:

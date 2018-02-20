@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: Widespace
+layout: bidder
 description: Prebid Widespace Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: widespace
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

@@ -1,25 +1,21 @@
 ---
-layout: example
 title: Send All Bids
+layout: example
 description: Send all bids to the ad server
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
 about:
 - One set of line items for each bidder
-- Send all bids mode keyword targeting setup (<a href="/dev-docs/publisher-api-reference.html#module_pbjs.enableSendAllBids">reference here</a>)
-- Send all bids to the ad server so you can track historical bid prices from various bidders in reporting
+- Send all bids mode keyword targeting setup (<a href="/dev-docs/publisher-api-reference.html#module_pbjs.enableSendAllBids">reference
+  here</a>)
+- Send all bids to the ad server so you can track historical bid prices from various
+  bidders in reporting
 - Standard price granularity
 - Standard integration with DFP's GPT single request asynchronous mode
-
 jsfiddle_link: jsfiddle.net/prebid/qu68xoz5/60/embedded/html,result
-
 code_lines: 121
 code_height: 2641
-
 pid: 15
 ---
 

@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Bidder Analysis on price and latency
+date: 2015-08-07 00:00:00 Z
+permalink: "/blog/header-bidding-bidder-analysis"
+layout: post
 head_title: Header Bidding Bidder Analysis on Price and Latency
-
-description: An analysis of header bidding bidders' price granularity and latency report.
-
-permalink: /blog/header-bidding-bidder-analysis
-
+description: An analysis of header bidding bidders' price granularity and latency
+  report.
 ---
 
 {: .alert.alert-warning :}

@@ -1,9 +1,11 @@
 ---
-layout: post
 title: First Open Header Bidding Solution for Video Now Available on Prebid.js
+date: 2016-12-15 00:00:00 Z
+permalink: "/blog/first-open-header-bidding-solution-for-video-now-available-on-prebid-js"
+layout: post
 head_title: First Open Header Bidding Solution for Video Now Available on Prebid.js
-description: A walkthrough of why header bidding implementations cause latency. An overview of how to use prebid.js to reduce it.
-permalink: /blog/first-open-header-bidding-solution-for-video-now-available-on-prebid-js
+description: A walkthrough of why header bidding implementations cause latency. An
+  overview of how to use prebid.js to reduce it.
 ---
 
 (*This post first appeared on the [AppNexus Product Blog](http://productblog.appnexus.com/first-open-header-bidding-solution-for-video-now-available-on-prebid-js/).*)

@@ -1,6 +1,6 @@
 ---
-layout: bidder
 title: Aardvark
+layout: bidder
 description: Prebid Aardvark Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference

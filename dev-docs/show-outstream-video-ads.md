@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Show Outstream Video Ads
+layout: page
 description: Show Outstream Video Ads with Prebid.js
 pid: 10
 top_nav_section: dev_docs

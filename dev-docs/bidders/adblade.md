@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Adblade
+layout: bidder
 description: Prebid Adblade Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: adblade
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### Note:
 The Adblade Header Bidding adaptor requires setup and approval from the Adblade team. Please go to [the Adblade publisher page](https://www.adblade.com/doc/publisher-solutions) for more details. 

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Dev Tips
+layout: page
 description: Troubleshooting tips for developers implementing Prebid.js Header Bidding
 pid: 0
 ---

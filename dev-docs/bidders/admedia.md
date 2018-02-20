@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: AdMedia
+layout: bidder
 description: Prebid AdMedia Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: admedia
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

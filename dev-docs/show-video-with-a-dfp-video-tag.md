@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Show Video Ads with DFP
-description:
+layout: page
+description: 
 pid: 0
 is_top_nav: yeah
 top_nav_section: dev_docs

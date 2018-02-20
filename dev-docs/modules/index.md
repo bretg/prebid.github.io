@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Prebid Modules
+layout: page
 description: Module Documentation
 pid: 27
 top_nav_section: dev_docs

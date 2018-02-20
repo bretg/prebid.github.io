@@ -1,11 +1,9 @@
 ---
-layout: post
 title: HTTPS proof comes to Prebid and all its adaptors
-
+date: 2016-03-14 00:00:00 Z
+permalink: "/blog/prebid-https"
+layout: post
 description: Prebid.js and all its adaptors now fully support HTTPS.
-
-permalink: /blog/prebid-https
-
 ---
 
 ### Background

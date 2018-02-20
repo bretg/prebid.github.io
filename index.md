@@ -1,9 +1,10 @@
 ---
-layout: home
 title: Prebid - Header Bidding Made Easy
+layout: home
 head_title: Prebid - Header Bidding Made Easy
 isHome: true
-description: Free and open source solutions for publishers to quickly implement header bidding.
+description: Free and open source solutions for publishers to quickly implement header
+  bidding.
 ---
 
 <a name="pb-home-live-demo"></a>

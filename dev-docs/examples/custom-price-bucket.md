@@ -1,25 +1,21 @@
 ---
-layout: example
 title: Custom Price Bucket
+layout: example
 description: Custom Price Bucket Example
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
 about:
-- <strong>Custom keyword targeting setup (for price)</strong>
+- "<strong>Custom keyword targeting setup (for price)</strong>"
 - Standard price granularity
 - Integration with DFP's GPT single request asynchronous mode
 - One set of line items for all bidders
-
 jsfiddle_link: jsfiddle.net/prebid/bp9magow/87/embedded/html,result
 code_height: 3166
 code_lines: 146
-
 pid: 100
 ---
+
 <br>
 <br>
 <br>

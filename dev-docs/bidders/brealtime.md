@@ -1,21 +1,14 @@
 ---
-layout: bidder
 title: bRealTime
+layout: bidder
 description: Prebid bRealTime Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: brealtime
-
-aliasCode : appnexus
-
+aliasCode: appnexus
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

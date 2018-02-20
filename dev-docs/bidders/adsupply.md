@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: AdSupply
+layout: bidder
 description: Prebid AdSupply Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: adsupply
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### Note:
 The AdSupply adapter requires setup and approval from the AdSupply team, even for existing AdSupply publishers. Please reach out to your account representative or support@adsupply.com for more information.

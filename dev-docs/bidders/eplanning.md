@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: E-Planning
+layout: bidder
 description: Prebid E-Planning Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: eplanning
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### Note:
 The E-Planning Header Bidding adaptor requires setup and approval from the E-Planning team. Please go to [E-Planning website](http://www.e-planning.net) for more details.

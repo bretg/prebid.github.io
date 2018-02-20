@@ -1,6 +1,6 @@
 ---
-layout: bidder
 title: Vertoz
+layout: bidder
 description: Prebid Vertoz Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference

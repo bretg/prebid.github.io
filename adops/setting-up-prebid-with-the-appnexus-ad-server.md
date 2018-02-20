@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Setting up Prebid with the AppNexus Publisher Ad Server
+layout: page
 head_title: Setting up Prebid with the AppNexus Publisher Ad Server
 description: Setting up Prebid with the AppNexus Publisher Ad Server
 pid: 3

@@ -1,11 +1,12 @@
 ---
-layout: page
 title: Before You Start
+permalink: "/adops.html"
+layout: page
 head_title: Getting Started with Prebid.js for Header Bidding
-description: An overview of Prebid.js, how it works, basic templates and examples, and more.
+description: An overview of Prebid.js, how it works, basic templates and examples,
+  and more.
 pid: 0
 is_top_nav: yeah
-permalink: /adops.html
 top_nav_section: adops
 nav_section: tutorials
 ---

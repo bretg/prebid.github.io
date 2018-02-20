@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Adjust Bid Price for Gross/Net Now Supported
-
+date: 2016-01-11 00:00:00 Z
+permalink: "/blog/adjust-bid-price"
+layout: post
 description: Adjust Bid Price for Gross/Net Is Now Supported for Prebid.js
-
-permalink: /blog/adjust-bid-price
-
 ---
 
 ### Background

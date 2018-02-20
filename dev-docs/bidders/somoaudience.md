@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: Somo Audience
+layout: bidder
 description: Somo Audience Bidder Adapter
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: somoaudience
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

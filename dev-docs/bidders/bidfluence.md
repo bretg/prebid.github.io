@@ -1,17 +1,12 @@
 ---
-
-layout: bidder
-
 title: Bidfluence
-
+layout: bidder
 description: Bidfluence Adaptor for Prebidjs
-
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: bidfluence
 biddercode_longer_than_12: false
-
 ---
 
 ### bid params

@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: HIRO Media
+layout: bidder
 description: Prebid HIRO Media Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: hiromedia
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

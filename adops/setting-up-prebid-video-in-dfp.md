@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Setting up Prebid Video in DFP (Beta)
+layout: page
 head_title: Setting up Prebid Video in DFP
 description: Setting up Prebid Video in DFP
 pid: 3

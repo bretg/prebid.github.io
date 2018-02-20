@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: Centro Brand Exchange
-description: Prebid Centro Bidder Adaptor 
- 
+layout: bidder
+description: Prebid Centro Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: centro
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

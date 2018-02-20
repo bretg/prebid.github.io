@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Docs by Ad Server
+layout: page
 head_title: Docs by Ad Server
 description: Prebid implementation docs, broken out by Ad Server
 pid: 0

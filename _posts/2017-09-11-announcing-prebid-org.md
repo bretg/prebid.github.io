@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Announcing the formation of an independent Prebid.org
+date: 2017-09-11 00:00:00 Z
+permalink: "/blog/announcing-prebid-org"
+layout: post
 head_title: Announcing the formation of an independent Prebid.org
-description: This week, we're pleased to announce the formation of Prebid.org, an independent organization dedicated to open source tools that drive publisher monetization.
-permalink: /blog/announcing-prebid-org
+description: This week, we're pleased to announce the formation of Prebid.org, an
+  independent organization dedicated to open source tools that drive publisher monetization.
 ---
 
 (_This post originally appeared on the

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Docs by Format
+layout: page
 description: Docs, broken out by creative format
 pid: 27
 top_nav_section: dev_docs

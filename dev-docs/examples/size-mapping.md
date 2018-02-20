@@ -1,21 +1,16 @@
 ---
-layout: example
 title: Serve Responsive Ads with Size Mapping
+layout: example
 description: Serve Responsive Ads with Size Mapping
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
 about:
-- Example showing how to configure ad units to resize dynamically based on screen size
-
+- Example showing how to configure ad units to resize dynamically based on screen
+  size
 jsfiddle_link: jsfiddle.net/prebid/58udrja1/31/embedded/html,result
-
 code_height: 3000
 code_lines: 118
-
 pid: 102
 ---
 

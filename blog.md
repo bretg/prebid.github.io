@@ -1,6 +1,6 @@
 ---
-layout: blog
 title: Blog
+layout: blog
 head_title: Prebid.org - Blog for Header Bidding
 description: All about Prebid and header bidding
 pid: 6

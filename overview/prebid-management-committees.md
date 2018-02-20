@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Prebid Management Committees
+layout: page
 description: Committees for the sub-projects of Prebid Org
 pid: 3
 is_top_nav: yeah

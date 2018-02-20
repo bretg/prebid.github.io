@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: TapSense
+layout: bidder
 description: Prebid TapSense Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: tapsense
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### bid params
 

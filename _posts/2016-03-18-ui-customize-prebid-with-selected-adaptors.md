@@ -1,10 +1,9 @@
 ---
-layout: post
 title: New UI to Customize Prebid.js with Selected Adaptors
-
+date: 2016-03-18 00:00:00 Z
+permalink: "/blog/ui-customize-prebid-with-selected-adaptors"
+layout: post
 description: New UI to Customize Prebid.js with Selected Adaptors
-
-permalink: /blog/ui-customize-prebid-with-selected-adaptors
 ---
 
 ### Background 

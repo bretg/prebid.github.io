@@ -1,15 +1,12 @@
 ---
-layout: post
 title: How to reduce latency of header bidding
+date: 2015-07-25 00:00:00 Z
+permalink: "/blog/how-to-reduce-latency-of-header-bidding"
+layout: post
 head_title: How to reduce latency of header bidding with prebid.js
-
-description: A walkthrough of why header bidding implementations cause latency. An overview of how to use prebid.js to reduce it.
-
-permalink: /blog/how-to-reduce-latency-of-header-bidding
-
+description: A walkthrough of why header bidding implementations cause latency. An
+  overview of how to use prebid.js to reduce it.
 ---
-
-
 
 > Why do header bidding cause latency? How to reduce it?
 

@@ -1,11 +1,9 @@
 ---
-layout: post
 title: New Adaptors TripleLift, NginAd
-
+date: 2016-03-14 00:00:00 Z
+permalink: "/blog/triplelift-nginad-adaptors-for-prebid"
+layout: post
 description: New Adaptors TripleLift, NginAd are now available for Prebid.js
-
-permalink: /blog/triplelift-nginad-adaptors-for-prebid
-
 ---
 
 ### New adapter for NginAd - how to add

@@ -1,7 +1,8 @@
 ---
-layout: page
 title: What is Prebid?
-description: An overview of Prebid, how it works, basic templates and examples, and more for header bidding.
+layout: page
+description: An overview of Prebid, how it works, basic templates and examples, and
+  more for header bidding.
 pid: 0
 is_top_nav: yeah
 top_nav_section: overview

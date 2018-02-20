@@ -1,17 +1,12 @@
 ---
-layout: bidder
 title: Pubmatic
+layout: bidder
 description: Prebid Pubmatic Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: pubmatic
-
 biddercode_longer_than_12: false
-
 ---
 
 ### Prebid Server Note:

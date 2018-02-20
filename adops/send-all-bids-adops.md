@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Send All Bids to Adserver
+layout: page
 head_title: Send all bids to the ad server
 description: Send all bids to the ad server for reporting and data analysis.
 pid: 2
-
 top_nav_section: adops
 nav_section: tutorials
 ---

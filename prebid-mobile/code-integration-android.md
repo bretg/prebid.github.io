@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Code Integration
+layout: page
 description: Code Integration
 pid: 1
 top_nav_section: prebid-mobile

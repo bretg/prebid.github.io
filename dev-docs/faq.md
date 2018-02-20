@@ -1,6 +1,6 @@
 ---
-layout: page
 title: FAQ
+layout: page
 description: FAQ on Prebid.js for header bidding.
 pid: 40
 top_nav_section: dev_docs

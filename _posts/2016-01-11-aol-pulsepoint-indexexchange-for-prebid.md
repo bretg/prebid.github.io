@@ -1,13 +1,10 @@
 ---
-layout: post
 title: New Adaptors AOL, Pulsepoint, IndexExchange
-
+date: 2016-01-11 00:00:00 Z
+permalink: "/blog/aol-pulsepoint-indexexchange-for-prebid"
+layout: post
 description: New Adaptors AOL, Pulsepoint, IndexExchange are now available for Prebid.js
-
-permalink: /blog/aol-pulsepoint-indexexchange-for-prebid
-
 ---
-
 
 ### How to add bidder AOL:
 

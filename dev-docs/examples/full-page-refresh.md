@@ -1,24 +1,19 @@
 ---
-layout: example
 title: Full Page Refresh
+layout: example
 description: Full Page Refresh Example
-
 top_nav_section: dev_docs
 nav_section: quick-start
-
 hide: true
-
 about:
 - Ability to <strong>refresh all ad units</strong>
 - Integration with DFP's GPT single request asynchronous mode
 - One set of line items for all bidders
 - Standard keyword targeting setup (<a href="/dev-docs/publisher-api-reference.html#bidderSettingsDefault">reference</a>)
 - Standard price granularity
-
 jsfiddle_link: jsfiddle.net/prebid/amg49spy/18/embedded/html,result
 code_height: 2662
 code_lines: 122
-
 pid: 35
 ---
 

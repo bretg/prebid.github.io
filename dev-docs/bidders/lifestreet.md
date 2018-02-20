@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: Lifestreet
+layout: bidder
 description: Prebid Lifestreet Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: lifestreet
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

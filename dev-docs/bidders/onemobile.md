@@ -1,22 +1,14 @@
 ---
-layout: bidder
 title: ONE by AOL Mobile
+layout: bidder
 description: Prebid AOL Bidder Adaptor aliase
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: onemobile
-
-aliasCode : aol
-
+aliasCode: aol
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### bid params
 

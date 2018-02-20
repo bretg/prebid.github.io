@@ -1,6 +1,6 @@
 ---
-layout: page
 title: About Prebid.js
+layout: page
 description: How prebid.js was started and what is it about
 pid: 60
 isNew: false

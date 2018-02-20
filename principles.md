@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Project Principles
+layout: page
 head_title: Project Principles
 description: A set of principles that guide how we develop Prebid
 pid: 0

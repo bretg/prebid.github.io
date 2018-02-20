@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Prebid Adds Support for Mobile App Header Bidding
+date: 2017-08-21 00:00:00 Z
+permalink: "/blog/prebid-adds-support-for-mobile-app-header-bidding"
+layout: post
 head_title: Prebid Adds Support for Mobile App Header Bidding
-description: The addition of Prebid Mobile libraries for iOS and Android marks another milestone for Prebid, representing its first formal steps towards providing an end-to-end open-source header bidding solution for mobile app publishers.
-permalink: /blog/prebid-adds-support-for-mobile-app-header-bidding
+description: The addition of Prebid Mobile libraries for iOS and Android marks another
+  milestone for Prebid, representing its first formal steps towards providing an end-to-end
+  open-source header bidding solution for mobile app publishers.
 ---
 
 Last week, the [prebid-mobile-android](https://github.com/prebid/prebid-mobile-android) and [prebid-mobile-ios](https://github.com/prebid/prebid-mobile-ios) repositories were open-sourced under the Prebid GitHub project. The addition of these libraries marks another milestone for Prebid, representing its first formal steps towards providing an end-to-end open-source header bidding solution for mobile app publishers.

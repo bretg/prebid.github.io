@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Roxot
+layout: bidder
 description: Prebid Roxot Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: roxot
-
 biddercode_longer_than_12: false
-
 ---
-
-
 
 ### bid params
 

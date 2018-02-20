@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: Mantis
+layout: bidder
 description: Prebid Mantis Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: mantis
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

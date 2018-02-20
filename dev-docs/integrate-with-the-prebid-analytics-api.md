@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Integrate with the Prebid Analytics API
+layout: page
 description: Integrate with the Prebid Analytics API
 pid: 28
 top_nav_section: dev_docs

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Price Granularity
+layout: page
 description: Price granularity
 pid: 2
 top_nav_section: prebid-mobile

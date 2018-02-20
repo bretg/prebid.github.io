@@ -1,15 +1,11 @@
 ---
-layout: post
 title: What is post-bid?
+date: 2015-08-29 00:00:00 Z
+permalink: "/blog/what-is-post-bid"
+layout: post
 head_title: What is post-bid and when to use it vs. header bidding.
-
 description: What is post-bid and when to use it vs. header bidding.
-
-permalink: /blog/what-is-post-bid
-
 ---
-
-
 
 ### What is post-bid?
 

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Add a Bidder Adapter to Prebid Server
+layout: page
 description: Add a Bidder Adapter to Prebid Server
 pid: 28
 top_nav_section: dev_docs

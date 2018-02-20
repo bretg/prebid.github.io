@@ -1,12 +1,12 @@
 ---
-layout: bidder
 title: AdOcean
+layout: bidder
 description: Prebid AdOcean Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: adocean
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
 
 ### bid params

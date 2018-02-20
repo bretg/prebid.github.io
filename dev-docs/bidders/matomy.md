@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Matomy
+layout: bidder
 description: Prebid Matomy Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: matomy
-
-aliasCode : appnexus
-
+aliasCode: appnexus
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

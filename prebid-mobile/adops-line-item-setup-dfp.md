@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Setup Line Items for DFP
+layout: page
 description: Setup Line Items for DFP
 pid: 0
 top_nav_section: prebid-mobile

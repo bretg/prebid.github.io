@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: ReadPeak
+layout: bidder
 description: ReadPeak Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: readpeak
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

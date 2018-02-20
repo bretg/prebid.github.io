@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Prebid Mobile Overview
+layout: page
 description: Prebid Mobile Overview
 pid: 0
 is_top_nav: yeah

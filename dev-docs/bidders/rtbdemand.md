@@ -1,6 +1,6 @@
 ---
-layout: bidder
 title: Rtbdemand bidder
+layout: bidder
 description: Prebid Rtbdemand Media Bidder Adapter
 top_nav_section: dev_docs
 nav_section: reference

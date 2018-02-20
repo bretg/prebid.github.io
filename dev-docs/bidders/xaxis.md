@@ -1,18 +1,12 @@
 ---
-layout: bidder
 title: Xaxis
+layout: bidder
 description: Prebid Xaxis Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: xhb
-
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

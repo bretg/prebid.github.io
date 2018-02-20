@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Getting Started
+layout: page
 description: Dev Docs for Getting Started with Prebid.js for Header Bidding
 pid: 0
 is_top_nav: yeah

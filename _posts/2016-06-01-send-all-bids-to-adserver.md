@@ -1,11 +1,9 @@
 ---
-layout: post
 title: Send All Bids to Ad Server
-
+date: 2016-06-01 00:00:00 Z
+permalink: "/blog/send-all-bids-to-adserver"
+layout: post
 description: Send All Bids to Ad Server with Prebid for header bidding.
-
-permalink: /blog/send-all-bids-to-adserver
-
 ---
 
 Prebid is making it easier for publishers to send all header bidding bids, (not just the winning bid), to the ad server. 

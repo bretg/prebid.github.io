@@ -1,11 +1,9 @@
 ---
-layout: post
 title: New Adaptors Sonobi, Brightcom, Adequant
-
+date: 2016-04-20 00:00:00 Z
+permalink: "/blog/sonobi-brightcom-adequant-adaptors-for-prebid"
+layout: post
 description: New Adaptors Sonobi, Brightcom, Adequant are now available for Prebid.js
-
-permalink: /blog/sonobi-brightcom-adequant-adaptors-for-prebid
-
 ---
 
 ### New adapter for Sonobi - how to add:

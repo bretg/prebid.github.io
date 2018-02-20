@@ -1,20 +1,13 @@
 ---
-layout: bidder
 title: Page Science
+layout: bidder
 description: Prebid Page Science Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: pagescience
-
-aliasCode : appnexus
-
+aliasCode: appnexus
 biddercode_longer_than_12: false
-
-
 ---
 
 ### bid params

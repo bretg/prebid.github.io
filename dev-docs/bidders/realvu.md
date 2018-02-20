@@ -1,19 +1,13 @@
 ---
-layout: bidder
 title: RealVu
+layout: bidder
 description: Prebid RealVu Bidder Adaptor
-
 top_nav_section: dev_docs
 nav_section: reference
-
 hide: true
-
 biddercode: realvu
-
 biddercode_longer_than_12: false
-
 ---
-
 
 ### bid params
 

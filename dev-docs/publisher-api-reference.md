@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Publisher API Reference
+layout: page
 description: Publisher API Reference for Prebid.js Header Bidding
 top_nav_section: dev_docs
 nav_section: reference

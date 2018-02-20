@@ -1,15 +1,14 @@
 ---
-layout: bidder
 title: Serverbid
+layout: bidder
 description: Prebid Serverbid Bidder Adaptor
 top_nav_section: dev_docs
 nav_section: reference
 hide: true
 biddercode: serverbid
 biddercode_longer_than_12: false
-prebid_1_0_supported : true
+prebid_1_0_supported: true
 ---
-
 
 ### bid params
 

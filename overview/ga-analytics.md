@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Prebid Analytics with GA
+layout: page
 description: Prebid.js Analytics with GA for Header Bidding
 pid: 10
 top_nav_section: overview

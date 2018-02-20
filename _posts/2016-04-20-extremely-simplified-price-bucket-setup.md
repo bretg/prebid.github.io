@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Extremely Simplified Price Bucket Setup
-
-description: Setting up price buckets is now extremely simplified. Define header bidding price granularity in a single line.
-
-permalink: /blog/extremely-simplified-price-bucket-setup
-
+date: 2016-04-20 00:00:00 Z
+permalink: "/blog/extremely-simplified-price-bucket-setup"
+layout: post
+description: Setting up price buckets is now extremely simplified. Define header bidding
+  price granularity in a single line.
 ---
 
 ### New API for `pbjs.setPriceGranularity()`

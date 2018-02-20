@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Bidders' Params
+layout: page
 description: Documentation on bidders' params
 pid: 21
 top_nav_section: dev_docs
